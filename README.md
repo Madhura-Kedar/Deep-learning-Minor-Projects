@@ -31,7 +31,6 @@ This repository contains a collection of deep learning projects implemented as p
 - **Environment:** Jupyter Notebook 
 - **Concepts:** ANN, Regression, Classification, CNN, RNN, Deep Learning
 
-*Update the libraries and tools above to match what you actually used.*
 
 ## 📁 Repository Structure
 
@@ -53,24 +52,18 @@ Deep-Learning-Minor-Project/
 └── README.md
 ```
 
-*The structure above is an example. Adjust the folder and notebook names to match your repository.*
+
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-Make sure Python is installed on your system. Install the required libraries using:
-
-```bash
-pip install numpy pandas matplotlib scikit-learn tensorflow jupyter
-```
+Make sure you have Pytorch installed in your system.
 
 ### Run the Projects
 
 1. Clone this repository:
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone <https://github.com/Madhura-Kedar/Deep-learning-Minor-Projects>
    ```
 
 2. Navigate to the project directory:
@@ -97,12 +90,4 @@ Alternatively, you can open the notebooks in Google Colab.
 - Exploring RNNs for sequential data.
 - Practicing data preprocessing, model training, and evaluation.
 
-## 👩‍💻 Author
 
-**Madhura Kedar**
-
-Computer Engineering Student | Deep Learning & Machine Learning Enthusiast
-
----
-
-⭐ If you find this repository useful, feel free to star it!
